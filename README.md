@@ -18,7 +18,8 @@
 
 ---
 
-##  Introduction
+<p> align="center"> INTRODUCCION </p>
+
 <p>
 Punibus is a web application designed to improve access to public transportation information. 
 It addresses the problem of unclear or hard-to-find bus schedules by providing simple and 
@@ -104,7 +105,7 @@ from ProA La Falda.
 
 ---
 
-## 📬 Contact
+##  Contact
 <ul>
   <li> Email: Punibus_2025@gmail.com</li>
   <li> Phone: XX XXXX-XXXX</li>
