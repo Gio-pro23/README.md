@@ -28,7 +28,8 @@ reliable information about bus stops and routes.
 
 ---
 
-##  Purpose
+<p align="center"> Purpose </p>
+
 <p>
 The main goal of Punibus is to make public transportation easier to use by offering clear, 
 fast, and accessible information for everyone.
@@ -36,7 +37,8 @@ fast, and accessible information for everyone.
 
 ---
 
-##  Features
+<p align="center"> Featours </p>
+
 <ul>
   <li> Bus stop information</li>
   <li> Schedule consultation</li>
@@ -46,7 +48,8 @@ fast, and accessible information for everyone.
 
 ---
 
-##  Usability
+<p align="center"> Usability </p>
+
 <p>
 Punibus is designed to be intuitive and easy to use, allowing users to find information 
 without needing technical knowledge.
@@ -54,14 +57,16 @@ without needing technical knowledge.
 
 ---
 
-##  Accessibility
+<p align="center"> Accesibilty </p>
+
 <p>
 The platform provides transportation information in a simple and inclusive way for all users.
 </p>
 
 ---
 
-##  Technologies Used
+<p align="center"> Technologies used</p>
+
 <ul>
   <li> HTML</li>
   <li> CSS</li>
@@ -70,7 +75,8 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
-##  Compatibility
+<p align="center"> Compability  </p>
+
 <p>Punibus works on:</p>
 <ul>
   <li> Mobile devices (iOS and Android)</li>
@@ -80,7 +86,8 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
-## 📦 Installation
+<p align="center"> Installation </p>
+
 <ol>
   <li> Download or clone the project</li>
   <li> Open the <code>index.html</code> file in your web browser</li>
@@ -88,7 +95,8 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
-## ▶️ Usage
+<p align="center"> Usage </p>
+
 <ol>
   <li> Open the application</li>
   <li> Search for bus stops or routes</li>
@@ -97,7 +105,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
-## 👥 Contributors
+##  Contributors
 <p>
 This project was developed as an educational assignment by 4th-year students (2025) 
 from ProA La Falda.
