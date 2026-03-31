@@ -18,8 +18,7 @@
 
 ---
 
-<p align="center"><font size="6">🟤 INTRODUCCION</font></p>
-
+<p align="center"><font size="8">  INTRODUCCION</font></p>
 <p>
 Punibus is a web application designed to improve access to public transportation information. 
 It addresses the problem of unclear or hard-to-find bus schedules by providing simple and 
