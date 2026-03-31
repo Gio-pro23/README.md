@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2>📌 Introduction</h2>
+<h2> Introduction</h2>
 <p>
 Punibus is a web application designed to improve access to public transportation information. 
 It addresses the problem of unclear or hard-to-find bus schedules by providing simple and 
@@ -21,7 +21,7 @@ reliable information about bus stops and routes.
 
 <hr>
 
-<h2>🎯 Purpose</h2>
+<h2> Purpose</h2>
 <p>
 The main goal of Punibus is to make public transportation easier to use by offering clear, 
 fast, and accessible information for everyone.
@@ -29,7 +29,7 @@ fast, and accessible information for everyone.
 
 <hr>
 
-<h2>✨ Features</h2>
+<h2> Features</h2>
 <ul>
   <li>Bus stop information</li>
   <li>Schedule consultation</li>
@@ -39,7 +39,7 @@ fast, and accessible information for everyone.
 
 <hr>
 
-<h2>🧠 Usability</h2>
+<h2> Usability</h2>
 <p>
 Punibus is designed to be intuitive and easy to use, allowing users to find information 
 without needing technical knowledge.
@@ -47,14 +47,14 @@ without needing technical knowledge.
 
 <hr>
 
-<h2>🌍 Accessibility</h2>
+<h2> Accessibility</h2>
 <p>
 The platform provides transportation information in a simple and inclusive way for all users.
 </p>
 
 <hr>
 
-<h2>🛠️ Technologies Used</h2>
+<h2> Technologies Used</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -63,7 +63,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 <hr>
 
-<h2>💻 Compatibility</h2>
+<h2> Compatibility</h2>
 <p>Punibus works on:</p>
 <ul>
   <li>Mobile devices (iOS and Android)</li>
@@ -73,7 +73,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 <hr>
 
-<h2>⚙️ Installation</h2>
+<h2> Installation</h2>
 <ol>
   <li>Download or clone the project</li>
   <li>Open the <code>index.html</code> file in your web browser</li>
@@ -81,7 +81,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 <hr>
 
-<h2>▶️ Usage</h2>
+<h2> Usage</h2>
 <ol>
   <li>Open the application</li>
   <li>Search for bus stops or routes</li>
@@ -90,7 +90,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 <hr>
 
-<h2>👥 Contributors</h2>
+<h2> Contributors</h2>
 <p>
 This project was developed as an educational assignment by 4th-year students (2025) 
 from ProA La Falda.
@@ -98,7 +98,7 @@ from ProA La Falda.
 
 <hr>
 
-<h2>📞 Contact</h2>
+<h2> Contact</h2>
 <ul>
   <li>Email: Punibus_2025@gmail.com</li>
   <li>Phone: XX XXXX-XXXX</li>
