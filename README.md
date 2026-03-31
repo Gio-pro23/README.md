@@ -18,7 +18,7 @@
 
 ---
 
-<p> align="center"> INTRODUCCION </p>
+<p align="center"> INTRODUCCION </p>
 
 <p>
 Punibus is a web application designed to improve access to public transportation information. 
