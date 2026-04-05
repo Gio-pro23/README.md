@@ -4,8 +4,13 @@
   <b>A web application to improve access to public transportation information</b>
 </p>
 
-![PuniBus](<img width="640" height="960" alt="image" src="https://github.com/user-attachments/assets/1357cacb-071e-429e-8573-d427a8be280f" />
-)
+
+
+
+<img width="960" height="529" alt="image" src="https://github.com/user-attachments/assets/f6daef72-c6dd-4545-9918-43b6bb6dd914" />
+
+
+
  
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge">
