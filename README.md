@@ -4,6 +4,9 @@
   <b>A web application to improve access to public transportation information</b>
 </p>
 
+![PuniBus](<img width="640" height="960" alt="image" src="https://github.com/user-attachments/assets/1357cacb-071e-429e-8573-d427a8be280f" />
+)
+ 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/project-educational-blue?style=for-the-badge">
@@ -23,6 +26,10 @@
 Punibus is a web application designed to improve access to public transportation information. 
 It addresses the problem of unclear or hard-to-find bus schedules by providing simple and 
 reliable information about bus stops and routes.
+
+In punilla, finding and reliable information about bus stops and schedules can be difficult and confusing for users. This often leads to delays and poor transportation information.
+
+Punibus Addresses this problem by providing a simple, accessible, and user friendly platform where people can easily find information about bus stops an schedule in a fast and organized way
 </p>
 
 ---
