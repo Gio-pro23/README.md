@@ -48,7 +48,7 @@ fast, and accessible information for everyone.
 
 ---
 
-<p align="center"> Featours </p>
+<p align="center"> Features </p>
 
 <ul>
   <li> Bus stop information</li>
