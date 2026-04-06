@@ -100,8 +100,9 @@ The platform provides transportation information in a simple and inclusive way f
 <p align="center"> Installation </p>
 
 <ol>
-  <li> Download or clone the project</li>
-  <li> Open the <code>index.html</code> file in your web browser</li>
+  <li> Download or clone the projec from its source</li>
+  <li> extract the files is necesary <li>
+  <li> Open the <code>index.html</code> file in your web browser to run the application</li>
 </ol>
 
 ---
@@ -109,9 +110,9 @@ The platform provides transportation information in a simple and inclusive way f
 <p align="center"> Usage </p>
 
 <ol>
-  <li> Open the application</li>
-  <li> Search for bus stops or routes</li>
-  <li> View schedules and relevant information</li>
+  <li> Open the web browser and search "punibus" and acces the web </li>
+  <li> Navegate through the interface to find information</li>
+  <li> and check the available schedules and related information</li>
 </ol>
 
 ---
