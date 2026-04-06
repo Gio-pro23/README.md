@@ -117,6 +117,17 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
+<p align="center"> Possible errors on the website </p>
+
+<ol>
+  <li> Outdated information: If the page isn't updated regularly, users might arrive late. </li>
+  <li> Broken links: Some routes or stops might not load correctly. </li>
+  <li> Compatibility issues: It might not work properly on all browsers or mobile devices. </li>
+  <li> Unclear interface: If the information isn't well-organized, users might not understand how to use the site. </li>
+</ol>
+
+---
+
 ##  Contributors
 <p>
 This project was developed as an educational assignment by 4th-year students (2025) 
