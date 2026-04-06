@@ -26,7 +26,7 @@
 
 ---
 
-<p align="center"><font size="8">  INTRODUCCION</font></p>
+<p align="center"><font size="8">  INTRODUCTION</font></p>
 <p>
 Punibus is a web application designed to improve access to public transportation information. 
 It addresses the problem of unclear or hard-to-find bus schedules by providing simple and 
@@ -86,7 +86,7 @@ The platform provides transportation information in a simple and inclusive way f
 
 ---
 
-<p align="center"> Compability  </p>
+<p align="center"> Compability </p>
 
 <p>Punibus works on:</p>
 <ul>
@@ -119,12 +119,12 @@ The platform provides transportation information in a simple and inclusive way f
 
 <p align="center"> Possible errors on the website </p>
 
-<ol>
+<ul>
   <li> Outdated information: If the page isn't updated regularly, users might arrive late. </li>
   <li> Broken links: Some routes or stops might not load correctly. </li>
   <li> Compatibility issues: It might not work properly on all browsers or mobile devices. </li>
   <li> Unclear interface: If the information isn't well-organized, users might not understand how to use the site. </li>
-</ol>
+</ul>
 
 ---
 
